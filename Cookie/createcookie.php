@@ -1,0 +1,5 @@
+<?php
+
+setcookie('yatreeuser','ankush');
+
+?>

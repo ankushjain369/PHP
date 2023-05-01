@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <style>
+      *{
+        margin: 0; padding: 0; box-sizing: border-box;
+        font-family: sans-serif; max-width: auto;
+      }
+      .main-div{
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      .center-div{
+        height: 80vh;
+        background-color: #D7DBDD;
+        padding:15px;
+        border: 3px solid black;
+        border-radius: 10px;
+      }
+      h1{
+        font-size: 2.7rem;
+        text-align: center;
+        text-transform: uppercase;
+        margin-bottom: 2rem;
+      }
+      table{
+        width: 80%;
+        border-collapse: collapse;
+        border: 3px solid black;
+        border-radius: 10px;
+        margin: auto;
+      }
+      th,td{
+        border: 1px solid #f2f2f2;
+        padding: 8px 20px;
+        text-align: center;
+      }
+      th{
+        text-transform: uppercase;
+        font-size: 1.8rem;
+        font-weight: 700;
+      }
+      td{
+        width: 80%;
+        font-size: 18px;
+        font-weight: bold;
+      }
+      .email-style{
+        font-size: 20px;
+        display: inline-block;
+        line-height: 30px;
+        padding: 0 14px;
+        background-color: #B2BABB;
+      }
+      .fa{
+        font-size: 18px;
+      }
+      .fa-pen-to-square{
+        color: black;
+        cursor: pointer;
+      }
+      .fa-trash-can{
+        color: darkred;
+        cursor: pointer;
+      }
+      
+      
+
+        </style>
+    </head>
+    <body>
+    
+    </body>
+    </html>
